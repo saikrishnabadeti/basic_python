@@ -1,5 +1,5 @@
 def greet():
 	name = input('Enter Your Name: ')
-	print("Hello", name)
+	print(f'Hi {name}, How are you?')
 
 greet()
